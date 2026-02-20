@@ -62,6 +62,60 @@ html {
   border-radius: 5px;
 }
 
+
+/* ===== DESKTOP ===== */
+#menu {
+  display: flex;
+  gap: 15px;
+}
+
+/* ===== BOTÓN ===== */
+.menu-toggle {
+  display: none;
+  font-size: 30px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+}
+
+/* ===== MOBILE ===== */
+@media (max-width: 768px) {
+
+  /* ocultar menú normal */
+  #menu {
+    position: fixed;
+    top: 0;
+    left: -260px;
+    width: 260px;
+    height: 100vh;
+    background: #111;
+    flex-direction: column;
+    padding: 80px 20px;
+    transition: left 0.3s ease;
+    z-index: 2000;
+  }
+
+  #menu a {
+    padding: 15px 0;
+    font-size: 18px;
+  }
+
+  /* menú activo */
+  #menu.active {
+    left: 0;
+  }
+
+  /* mostrar botón */
+  .menu-toggle {
+    display: block;
+  }
+
+  /* ocultar whatsapp en header */
+  .btn-whatsapp {
+    display: none;
+  }
+}
 /* HERO */
 /* ===== HERO ===== */
 .hero {
@@ -215,6 +269,17 @@ html {
   height: 180px;
   object-fit: contain;
   margin-bottom: 15px;
+}
+
+/* Botón */
+.product-card button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  background: #111;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
 }
 
 /* ===== OFERTAS ===== */

@@ -63,6 +63,15 @@
     "categoria": "laptops",
     "imagen": "LENOVO RYZEN 5.png"
   },
+   {
+    "id": 14,
+    "nombre": "HP intel inside",
+    "precio": 1200000,
+    "categoria": "laptops",
+    "imagen": "hp-poratil-intel-inside.png"
+  },
+
+
 
 
 
