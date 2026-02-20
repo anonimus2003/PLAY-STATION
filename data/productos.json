@@ -1,0 +1,300 @@
+[
+  {
+    "id": 1,
+    "nombre": "PlayStation 5",
+    "precio": 2687500,
+    "categoria": "consolas",
+    "imagen": "PS5.png",
+    "slider": true
+
+  },
+  {
+    "id": 2,
+    "nombre": "PlayStation 4",
+    "precio": 1300000,
+    "categoria": "consolas",
+    "imagen": "PS4.png",
+    "slider": true
+  },
+  {
+    "id": 3,
+    "nombre": "Xbox 360",
+    "precio": 700000,
+    "categoria": "consolas",
+    "imagen": "XBOX360.png",
+    "slider": true
+  },
+  {
+    "id": 4,
+    "nombre": "PlayStation 3",
+    "precio": null,
+    "categoria": "consolas",
+    "imagen": "PS3.png"
+  },
+
+
+
+
+  {
+    "id": 10,
+    "nombre": "Asus Core i5",
+    "precio": 2187500,
+    "categoria": "laptops",
+    "imagen": "ASUS CORE 5.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Asus Ryzen 3",
+    "precio": 1687500,
+    "categoria": "laptops",
+    "imagen": "ASUS RYZEN 3.png"
+  },
+  {
+    "id": 12,
+    "nombre": "HP Core 3",
+    "precio": 1687500,
+    "categoria": "laptops",
+    "imagen": "HP Core 3.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Lenovo Ryzen 5",
+    "precio": 2187500,
+    "categoria": "laptops",
+    "imagen": "LENOVO RYZEN 5.png"
+  },
+
+
+
+
+
+  {
+    "id": 20,
+    "nombre": "Combo Teclado y Mouse",
+    "precio": 113000,
+    "categoria": "accesorios",
+    "imagen": "Combo teclado y mouse .png"
+  },
+  {
+    "id": 21,
+    "nombre": "Combo Gamer",
+    "precio": 140000,
+    "categoria": "accesorios",
+    "imagen": "COMBO GAMER.png"
+  },
+  {
+    "id": 22,
+    "nombre": "Teclado Gamer",
+    "precio": 80000,
+    "categoria": "accesorios",
+    "imagen": "Teclado unitec gamer.png"
+  },
+  {
+    "id": 23,
+    "nombre": "Mouse 4D Vinotinto",
+    "precio": 30000,
+    "categoria": "accesorios",
+    "imagen": "mouse 4d vinotinto.png"
+  },
+  {
+    "id": 24,
+    "nombre": "Mouse 4D Negro",
+    "precio": 30000,
+    "categoria": "accesorios",
+    "imagen": "mouse plano 4d negro.png"
+  },
+  {
+    "id": 25,
+    "nombre": "Watch Dogs (PS4)",
+    "precio": 159900,
+    "categoria": "accesorios",
+    "imagen": "juedo ps4 watch dogs.png"
+  },
+  {
+    "id": 26,
+    "nombre": "Rainbow Six (PS4)",
+    "precio": 159900,
+    "categoria": "accesorios",
+    "imagen": "Juego ps4 rainbowsix.png"
+  },
+  {
+    "id": 27,
+    "nombre": "Mortal Kombat (PS5)",
+    "precio": 285000,
+    "categoria": "accesorios",
+    "imagen": "Juego ps5 mortal.png",
+    "slider": true
+  },
+  {
+    "id": 28,
+    "nombre": "Resident Evil (PS5)",
+    "precio": 250000,
+    "categoria": "accesorios",
+    "imagen": "Juego PS5 RESIDENT.png"
+  },
+  {
+    "id": 29,
+    "nombre": "GTA San Andreas (PS5)",
+    "precio": 198000,
+    "categoria": "accesorios",
+    "imagen": "juego PS5 SAN ANDRES.png"
+  },
+  {
+    "id": 30,
+    "nombre": "SSD 1TB",
+    "precio": 659900,
+    "categoria": "accesorios",
+    "imagen": "Disco SSD 1TB.png"
+  },
+  {
+    "id": 31,
+    "nombre": "Control Xbox",
+    "precio": 349900,
+    "categoria": "accesorios",
+    "imagen": "Control Xbox.png"
+  },
+  {
+    "id": 32,
+    "nombre": "SSD 256GB",
+    "precio": 250000,
+    "categoria": "accesorios",
+    "imagen": "SSD 256.png"
+  },
+  {
+    "id": 33,
+    "nombre": "Control PS5",
+    "precio": 365000,
+    "categoria": "accesorios",
+    "imagen": "Control PS5.png"
+  },
+  {
+    "id": 34,
+    "nombre": "Kit Carga y Juega",
+    "precio": 37000,
+    "categoria": "accesorios",
+    "imagen": "KIT CARGA Y JUEGA.png"
+  },
+  {
+    "id": 35,
+    "nombre": "Carga y Juega Series",
+    "precio": 81000,
+    "categoria": "accesorios",
+    "imagen": "Carga y juega series.png"
+  },
+  {
+    "id": 36,
+    "nombre": "Carga y Juega X-One",
+    "precio": 62000,
+    "categoria": "accesorios",
+    "imagen": "X-ONE.png"
+  },
+
+  {
+    "id": 37,
+    "nombre": "Micro SSD 64 GB",
+    "precio": 40000,
+    "categoria": "accesorios",
+    "imagen": "Micro SD 64 GB.png"
+  },
+
+  
+ {
+    "id": 38,
+    "nombre": "Micro SSD 128 GB",
+    "precio": 84000,
+    "categoria": "accesorios",
+    "imagen": "MICRO SSD 128 GB.png"
+  },
+
+
+ {
+    "id": 39,
+    "nombre": "Memoria USB 64 GB",
+    "precio": 44000,
+    "categoria": "accesorios",
+    "imagen": "Memoria USB 64 GB.png"
+  },
+
+  {
+    "id": 40,
+    "nombre": "Memoria USB 1TB",
+    "precio": 560000,
+    "categoria": "accesorios",
+    "imagen": "Memoria USB 1T .png"
+  },
+
+   {
+    "id": 41,
+    "nombre": "RAM DE 8 GB DDR4",
+    "precio": 200000,
+    "categoria": "accesorios",
+    "imagen": "RAM PORTATIL DDR4 8GB.png"
+  },
+
+  {
+    "id": 42,
+    "nombre": "Minecraft Nintendo Switch",
+    "precio": 220000,
+    "categoria": "accesorios",
+    "imagen": "Video juego nintendo switch minecraft.png"
+  },
+
+  {
+    "id": 43,
+    "nombre": "Zelda Nintendo Switch",
+    "precio": 275000,
+    "categoria": "accesorios",
+    "imagen": "Video juego Zelda nintendo.png"
+  },
+
+  {
+    "id": 44,
+    "nombre": "CTR Crash Nintendo Switch",
+    "precio": 242000,
+    "categoria": "accesorios",
+    "imagen": "Video Juego CTR NINTENDO.png"
+  },
+
+
+
+
+
+
+
+  {
+    "id": 40,
+    "nombre": "TV Caixun 50 pulgadas",
+    "precio": 1625000,
+    "categoria": "tv",
+    "imagen": "Tv Caixun 50 pulgadas.png"
+  },
+  {
+    "id": 41,
+    "nombre": "TV Samsung 40 pulgadas",
+    "precio": 1250000,
+    "categoria": "tv",
+    "imagen": "Tv samsung 40.png"
+  },
+  {
+    "id": 42,
+    "nombre": "TV Olimpo 40 pulgadas",
+    "precio": 1000000,
+    "categoria": "tv",
+    "imagen": "tv olimpo 40.png",
+    "slider": true
+
+  },
+
+
+  {
+    "id": 50,
+    "nombre": "Impresora T230",
+    "precio": 825000,
+    "categoria": "impresoras",
+    "imagen": "Impresora T230.png"
+  }
+
+  
+]
+
+

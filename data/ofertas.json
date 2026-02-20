@@ -1,0 +1,46 @@
+[
+  {
+    "id": 301,
+    "nombre": "PlayStation 4 + Control + 1 Juego",
+    "imagen": "PS4.png",
+    "categoria": "consolas",
+    "precioAntes": 1300000,
+    "precioAhora": 1000000,
+    "badgeTexto": "COMBO",
+    "badgeClase": "badge",
+    "destacado": true
+  },
+  {
+    "id": 302,
+    "nombre": "PlayStation 5",
+    "imagen": "PS5.png",
+    "categoria": "consolas",
+    "precioAntes": 2800000,
+    "precioAhora": 2520000,
+    "badgeTexto": "-10%",
+    "badgeClase": "badge rojo",
+    "destacado": false
+  },
+  {
+    "id": 303,
+    "nombre": "Laptop para Estudio",
+    "imagen": "ASUS RYZEN 3.png",
+    "categoria": "laptops",
+    "precioAntes": 1685000,
+    "precioAhora": 1485000,
+    "badgeTexto": "LAPTOP",
+    "badgeClase": "badge azul",
+    "destacado": false
+  },
+  {
+    "id": 304,
+    "nombre": "Accesorios Gamer",
+    "imagen": "COMBO GAMER.png",
+    "categoria": "accesorios",
+    "precioAntes": 140000,
+    "precioAhora": 125000 ,
+    "badgeTexto": "OFERTA",
+    "badgeClase": "badge verde",
+    "destacado": false
+  }
+]

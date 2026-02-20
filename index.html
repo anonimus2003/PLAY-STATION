@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tienda Tech | Consolas y Laptops</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="Css/style.css">
+  <!-- Leaflet CSS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="header">
+
+    <div class="logo"> 
+    <a href="#"> 
+    <img src="img/logo.svg" alt="Logo PlayStation"> 
+    <span class="logo-text">
+      Play<br>Station
+    </span> 
+    </a> 
+
+    </div>
+
+  
+    <nav>
+      <a href="#inicio">Inicio</a>
+      <a href="#consolas">Consolas</a>
+      <a href="#laptops">Laptops</a>
+      <a href="#accesorios">Accesorios</a>
+      <a href="#ofertas">Ofertas</a>
+    </nav>
+    <a class="btn-whatsapp" href="#">WhatsApp</a>
+  </header>
+
+  <!-- HERO -->
+ <!-- HERO -->
+<section id="inicio" class="hero">
+
+  <div class="hero-text">
+    <h1>Consolas, Laptops y Accesorios</h1>
+    <p>PlayStation, Xbox, laptops y tecnología al mejor precio</p>
+
+    <div class="hero-buttons">
+      <a href="#ofertas" class="btn-primary">Ver Ofertas</a>
+      <a href="#" class="btn-secondary">Comprar Ahora</a>
+    </div>
+  </div>
+
+
+ <!-- SLIDER -->
+<div class="slider">
+  <div class="slides"></div>
+
+  <button class="prev">‹</button>
+  <button class="next">›</button>
+</div>
+
+
+</section>
+
+
+  <!-- CATEGORÍAS -->
+  <section class="categories">
+    <div class="card">🎮 Consolas</div>
+    <div class="card">💻 Laptops</div>
+    <div class="card">🎧 Accesorios</div>
+    <div class="card">🔥 Ofertas</div>
+  </section>
+
+
+  <!-- PRODUCTOS -->
+  <section id="consolas" class="products">
+    <h2>Consolas Destacadas</h2>
+    <div class="productos-grid" id="productos-consolas"></div>
+  </section>
+
+  <section id="laptops" class="products">
+    <h2>Laptops Destacadas</h2>
+     <div class="productos-grid" id="productos-laptops"></div>
+  </section>
+
+  <section id="accesorios" class="products">
+    <h2>Accesorios Destacados</h2>
+    <div class="productos-grid" id="productos-accesorios"></div>
+  </section>
+
+  <section id="tv" class="products" >
+    <h2>TVs Destacadas</h2>
+    <div class="productos-grid" id="productos-tv"></div>
+  </section>
+  
+
+  <section id="impresoras" class="products">
+    <h2>Impresoras Destacadas</h2>
+    <div class="productos-grid" id="productos-impresoras"></div>
+  </section>
+
+
+  <section id="ofertas" class="ofertas">
+    <h2>🔥 Ofertas Especiales</h2>
+    <p class="ofertas-desc">Aprovecha nuestras promociones por tiempo limitado.</p>
+    <div class="ofertas-grid" id="productos-ofertas"></div>
+  </section>
+
+
+  <section id="ubicacion" class="ubicacion">
+  <h2>Nuestras Ubicaciones</h2>
+
+  <div class="ubicacion-container">
+    <div id="map"></div>
+
+    <div class="locales">
+      <div class="local">
+        <h3>Local 170 – Terraplaza</h3>
+        <p>Play Station Terraplaza, Popayán, Cauca</p>
+      </div>
+
+      <div class="local">
+        <h3>Local 5 (Sótano) – Campanario</h3>
+        <p>Play Station Campanario, Popayán, Cauca</p>
+      </div>
+
+      <div class="local">
+        <h3>San Andresito</h3>
+        <p>San Andresito, Popayán, Cauca</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/mapa.js"></script>
+
+<section class="beneficios">
+  <div class="beneficio">
+    <div class="icono">💳</div>
+    <h3>Paga como prefieras</h3>
+    <p>
+      Aceptamos <strong>tarjeta de crédito</strong> y
+      <strong>pago en efectivo</strong>.
+    </p>
+  </div>
+
+  <div class="beneficio destacado">
+    <div class="icono">🚚</div>
+    <h3>Envío gratis</h3>
+    <p>
+      Disfruta de <strong>envío gratis</strong> en tu
+      <strong>primera compra</strong>.
+    </p>
+  </div>
+
+  <div class="beneficio">
+    <div class="icono">🔒</div>
+    <h3>Compra segura</h3>
+    <p>
+      Productos <strong>verificados</strong> y
+      <strong>garantía</strong> en cada compra.
+    </p>
+  </div>
+</section>
+
+
+  <!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-container">
+
+    <!-- Información -->
+    <div class="footer-col">
+      <h4>Tienda Play Station</h4>
+      <p>
+        Venta de consolas, laptops y accesorios tecnológicos.
+        Productos verificados y atención personalizada.
+      </p>
+    </div>
+
+    <!-- Políticas -->
+    <div class="footer-col">
+      <h4>Políticas</h4>
+      <ul>
+        <li><a href="#">Términos y condiciones</a></li>
+        <li><a href="#">Política de garantías</a></li>
+        <li><a href="#">Cambios y devoluciones</a></li>
+        <li><a href="#">Política de privacidad</a></li>
+      </ul>
+    </div>
+
+    <!-- Garantías -->
+    <div class="footer-col">
+      <h4>Garantías</h4>
+      <ul>
+        <li>Productos nuevos y usados verificados</li>
+        <li>Garantía según estado del producto</li>
+        <li>Soporte técnico disponible</li>
+      </ul>
+    </div>
+
+    <!-- Contacto -->
+    <div class="footer-col">
+      <h4>Contacto</h4>
+      <p>📍 Popayán, Cauca</p>
+      <p>📲 WhatsApp</p>
+      <p>🕒 Lunes a sábado</p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    <p>© 2026 Tienda Play Station. Todos los derechos reservados.</p>
+  </div>
+</footer>
+
+
+  <!-- JS -->
+  <script src="Js/scrip.js"></script>
+  <Script src="Js/Slider.js"></script>
+  <script src="Js/app.js"></script>
+</body>
+</html>
