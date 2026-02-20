@@ -255,10 +255,14 @@
     "imagen": "Video Juego CTR NINTENDO.png"
   },
 
-
-
-
-
+  {
+    "id": 45,
+    "nombre": "Grips Con Diseño Para Joystick Control Consola",
+    "precio": 13000,
+    "categoria": "accesorios",
+    "imagen": "GripsControl.png"
+  },
+ 
 
 
   {
