@@ -71,6 +71,16 @@
     "imagen": "hp-poratil-intel-inside.png"
   },
 
+   {
+    "id": 15,
+    "nombre": "HP core3",
+    "precio": 1680000,
+    "categoria": "laptops",
+    "imagen": "oferta-hp-intel-3.png",
+    "slider": true
+
+  },
+
 
 
 
