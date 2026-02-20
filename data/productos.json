@@ -266,21 +266,21 @@
     "nombre": "TV Caixun 50 pulgadas",
     "precio": 1625000,
     "categoria": "tv",
-    "imagen": "Tv Caixun 50 pulgadas.png"
+    "imagen": "tvcaixun50pulgadas.png"
   },
   {
     "id": 41,
     "nombre": "TV Samsung 40 pulgadas",
     "precio": 1250000,
     "categoria": "tv",
-    "imagen": "Tv samsung 40.png"
+    "imagen": "tvsamsung40.png"
   },
   {
     "id": 42,
     "nombre": "TV Olimpo 40 pulgadas",
     "precio": 1000000,
     "categoria": "tv",
-    "imagen": "tv olimpo 40.png",
+    "imagen": "tvolimpo40.png",
     "slider": true
 
   },
