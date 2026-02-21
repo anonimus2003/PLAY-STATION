@@ -3,7 +3,7 @@ function contactar() {
     "Hola, estoy interesado en uno de sus productos."
   );
 
-  const telefono = "573001234567"; // cambia por tu número
+  const telefono = "573147622283"; // cambia por tu número
   const url = `https://wa.me/${telefono}?text=${mensaje}`;
 
   window.open(url, "_blank");

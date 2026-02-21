@@ -290,6 +290,13 @@ html {
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  .productos-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+}
+
 /* ===== OFERTAS ===== */
 .ofertas {
   padding: 50px 20px;
@@ -375,6 +382,13 @@ html {
   color: #fff;
   border-radius: 6px;
   cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .ofertas-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
 }
 
 
