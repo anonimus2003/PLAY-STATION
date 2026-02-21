@@ -281,6 +281,20 @@
     "categoria": "accesorios",
     "imagen": "GripsControl.png"
   },
+
+    {
+    "id": 46,
+    "nombre": "Nintendo Switch",
+    "precio": 1500000,
+    "categoria": "accesorios",
+    "imagen": "NintendoSwitch.png"
+  },
+
+
+
+
+
+  
  
 
 
