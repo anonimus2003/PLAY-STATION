@@ -297,6 +297,14 @@ html {
   }
 }
 
+@media (max-width: 380px) {
+  .productos-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
 /* ===== OFERTAS ===== */
 .ofertas {
   padding: 50px 20px;
@@ -388,6 +396,12 @@ html {
   .ofertas-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 15px;
+  }
+}
+
+@media (max-width: 380px) {
+  .ofertas-grid {
+    grid-template-columns: 1fr;
   }
 }
 
