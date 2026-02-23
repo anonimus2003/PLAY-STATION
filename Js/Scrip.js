@@ -143,3 +143,19 @@ function toggleMenu() {
   document.getElementById("menu").classList.toggle("active");
 }
 
+function buscarProductos() {
+  const texto = document.getElementById("searchInput").value.toLowerCase();
+
+  // Si está vacío, mostrar todo
+  if (texto.trim() === "") {
+    renderProductos(productos);
+    return;
+  }
+
+  const filtrados = productos.filter(p =>
+    p.nombre.toLowerCase().includes(texto) ||
+    p.categoria.toLowerCase().includes(texto)
+  );
+
+  renderProductos(filtrados);
+}

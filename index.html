@@ -25,6 +25,15 @@
     </a>
   </div>
 
+  <div class="buscador">
+  <input 
+    type="text" 
+    id="searchInput" 
+    placeholder="Buscar productos..."
+    oninput="buscarProductos()"
+  >
+  </div>
+
   <button class="menu-toggle" onclick="toggleMenu()">☰</button>
 
   <nav id="menu">
@@ -34,6 +43,7 @@
     <a href="#accesorios">Accesorios</a>
     <a href="#ofertas">Ofertas</a>
   </nav>
+
 
   <a class="btn-whatsapp" href="#">WhatsApp</a>
 
