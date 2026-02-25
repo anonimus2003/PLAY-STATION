@@ -38,28 +38,28 @@
   {
     "id": 10,
     "nombre": "Asus Core i5",
-    "precio": 2187500,
+    "precio": 1750000,
     "categoria": "laptops",
     "imagen": "ASUS CORE 5.png"
   },
   {
     "id": 11,
     "nombre": "Asus Ryzen 3",
-    "precio": 1687500,
+    "precio": 1350000,
     "categoria": "laptops",
     "imagen": "ASUS RYZEN 3.png"
   },
   {
     "id": 12,
     "nombre": "HP Core 3",
-    "precio": 1687500,
+    "precio": 1350000,
     "categoria": "laptops",
     "imagen": "HP Core 3.png"
   },
   {
     "id": 13,
     "nombre": "Lenovo Ryzen 5",
-    "precio": 2187500,
+    "precio": 1750000,
     "categoria": "laptops",
     "imagen": "LENOVO RYZEN 5.png"
   },
@@ -71,17 +71,6 @@
     "imagen": "hp-poratil-intel-inside.png"
   },
 
-   {
-    "id": 15,
-    "nombre": "HP core3",
-    "precio": 1680000,
-    "categoria": "laptops",
-    "imagen": "oferta-hp-intel-3.png",
-    "slider": true
-
-  },
-
-
 
 
 
@@ -90,14 +79,14 @@
   {
     "id": 20,
     "nombre": "Combo Teclado y Mouse",
-    "precio": 113000,
+    "precio": 90000,
     "categoria": "accesorios",
     "imagen": "Combo teclado y mouse .png"
   },
   {
     "id": 21,
     "nombre": "Combo Gamer",
-    "precio": 140000,
+    "precio": 110000,
     "categoria": "accesorios",
     "imagen": "COMBO GAMER.png"
   },
@@ -161,49 +150,49 @@
   {
     "id": 30,
     "nombre": "SSD 1TB",
-    "precio": 450000,
+    "precio": 400000,
     "categoria": "accesorios",
     "imagen": "Disco SSD 1TB.png"
   },
   {
     "id": 31,
     "nombre": "Control Xbox",
-    "precio": 349900,
+    "precio": 300000,
     "categoria": "accesorios",
     "imagen": "Control Xbox.png"
   },
   {
     "id": 32,
     "nombre": "SSD 256GB",
-    "precio": 250000,
+    "precio": 200000,
     "categoria": "accesorios",
     "imagen": "SSD 256.png"
   },
   {
     "id": 33,
     "nombre": "Control PS5",
-    "precio": 365000,
+    "precio": 330000,
     "categoria": "accesorios",
     "imagen": "Control PS5.png"
   },
   {
     "id": 34,
     "nombre": "Kit Carga y Juega",
-    "precio": 37000,
+    "precio": 30000,
     "categoria": "accesorios",
     "imagen": "KIT CARGA Y JUEGA.png"
   },
   {
     "id": 35,
     "nombre": "Carga y Juega Series",
-    "precio": 81000,
+    "precio": 65000,
     "categoria": "accesorios",
     "imagen": "Carga y juega series.png"
   },
   {
     "id": 36,
     "nombre": "Carga y Juega X-One",
-    "precio": 62000,
+    "precio": 50000,
     "categoria": "accesorios",
     "imagen": "X-ONE.png"
   },
@@ -237,7 +226,7 @@
   {
     "id": 40,
     "nombre": "Memoria USB 1TB",
-    "precio": 560000,
+    "precio": 400000,
     "categoria": "accesorios",
     "imagen": "Memoria USB 1T .png"
   },
@@ -285,7 +274,7 @@
     {
     "id": 46,
     "nombre": "Nintendo Switch",
-    "precio": 1500000,
+    "precio": 1400000,
     "categoria": "accesorios",
     "imagen": "NintendoSwitch.png"
   },
@@ -301,21 +290,21 @@
   {
     "id": 40,
     "nombre": "TV Caixun 50 pulgadas",
-    "precio": 1625000,
+    "precio": 1400000,
     "categoria": "tv",
     "imagen": "tvcaixun50.png"
   },
   {
     "id": 41,
     "nombre": "TV Samsung 40 pulgadas",
-    "precio": 1250000,
+    "precio": 1100000,
     "categoria": "tv",
     "imagen": "tvsamsung40.png"
   },
   {
     "id": 42,
     "nombre": "TV Olimpo 40 pulgadas",
-    "precio": 1000000,
+    "precio": 850000,
     "categoria": "tv",
     "imagen": "tvolimpo40.png",
     "slider": true
@@ -326,7 +315,7 @@
   {
     "id": 50,
     "nombre": "Impresora T230",
-    "precio": 825000,
+    "precio": 780000,
     "categoria": "impresoras",
     "imagen": "Impresora T230.png"
   }
